@@ -1,2 +1,4 @@
 # SeatBook
-预订图书馆座位
+To book seats of library.
+This program is only used for lib.hrbeu.edu.cn.
+The enviroment should be set.
